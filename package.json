@@ -1,0 +1,26 @@
+{
+  "name": "Nexy-Responsive",
+  "source": "index.html",
+  "version": "1.0.0",
+  "description": "Website project with RWD elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --no-cache",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelTeida/Nexy-Responsive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelTeida/Nexy-Responsive/issues"
+  },
+  "homepage": "https://github.com/MichaelTeida/Nexy-Responsive#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
